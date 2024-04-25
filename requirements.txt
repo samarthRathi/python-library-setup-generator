@@ -1,0 +1,5 @@
+# Project: Financial Data Analysis
+numpy
+pandas
+matplotlib
+seaborn
